@@ -1,1 +1,1 @@
-A Chatbot that uses openai API to generate a sample cover letter.
+A Chatbot that uses Gemini and/or Openai API to answer various questions. 
